@@ -1,0 +1,12 @@
+{
+    "name": "bluefox-info",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "WilsontheWolf",
+    "license": "MIT",
+    "description": "A node module for sending stats for the BlueFox panel.",
+    "repository": "https://github.com/WilsontheWolf/bluefox-info-client",
+    "dependencies": {
+        "node-fetch": "^2.6.1"
+    }
+}
